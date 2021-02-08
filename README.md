@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Matteo. Nice to meet you! 👋
 
 <!--
 **matteo-brandolino/matteo-brandolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
