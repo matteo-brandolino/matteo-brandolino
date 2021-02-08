@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My Favorite Stack:
 
--REACT ![alt text](https://www.flaticon.com/svg/vstatic/svg/16/1260667.svg?token=exp=1612798676~hmac=ce98bc73ae21be7fd65ae7936cd46db4)
+-REACT ![alt text](https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1612798676~hmac=ce98bc73ae21be7fd65ae7936cd46db4)
