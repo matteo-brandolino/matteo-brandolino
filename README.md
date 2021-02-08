@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My Favorite Stack:
 
--REACT ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WA_9JsyqFkge2HwYKcdJQwHaFO%26pid%3DApi&f=1)
+-REACT ![alt text](https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1612798676~hmac=ce98bc73ae21be7fd65ae7936cd46db4)
