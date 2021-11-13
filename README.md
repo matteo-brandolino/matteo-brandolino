@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 
 <h6>Blockchain</h6>
 <img src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" width="50px"/>
+<img src="https://hardhat.org/assets/img/Hardhat-logo.652a7049.svg" >
 
