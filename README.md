@@ -34,11 +34,3 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="95px"/>
     <img src="https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
       <img src="https://camo.githubusercontent.com/b38bbb1cba49a754ade66ca1ca45541ed07ab31a3b01166157f513b44fb35f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/>
-</p>
-
-<h6>Blockchain</h6>
-<p>
-  <img src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" width="50px"/>
-  <img src="https://hardhat.org/assets/img/Hardhat-logo.652a7049.svg" >
-  <img src="https://www.trufflesuite.com/img/truffle-logomark.svg" width="45px">
-</p>
