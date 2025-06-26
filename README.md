@@ -33,5 +33,4 @@ I'm passionate about **software development**—I love writing code, exploring n
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=matteo-brandolino&show_icons=true&locale=en" alt="matteo-brandolino" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteo-brandolino&" alt="matteo-brandolino" />
 </p>
